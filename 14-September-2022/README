@@ -1,3 +1,11 @@
 Perkuliahan 14-September-2023:
 1. Pengenalan
 2. Pengolahan teks dasar
+
+PR:
+1. Download dan Install Jupiter Notebook
+2. Buat akun/repository github untuk perkuliahan ini (tempat upload PR dan Ujian)
+3. Cari satu pidato kenegaraan Presiden Indonesia (bebas tahun berapa) dan buat plot untuk 20 kata yang paling sering muncul. Buat analisis singkat (minimal 1 paragraph). Gunakan kodingan bahasa Indonesia
+4. Cari satu link (web) pidato kenegaraan Presiden Amerika (bebas tahun berapa) dan buat plot untuk 20 kata yang paling sering muncul. Buat analisis singkat (minimal 1 paragraph). Gunakan kodingan bahasa Inggris
+5. Upload code dan plot di github anda dan kirim link nya ke saya.
+6. Paling lambat Rabu malam 23.59 biar saya sempat lihat sebelum perkuliahan hari Kamis nya.
