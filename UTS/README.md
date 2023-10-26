@@ -7,6 +7,7 @@ Bagian Pertama
 4. Buat tulisan singkat (minimal 3 paragraf) berdasarkan analisis dari kata kunci yang muncul. Adik2 bisa lihat dua link di point nomer 1 untuk contoh
 
 Bagian Kedua
+
 Download dataset "tripadviser_hotel_reviews.csv" dari kaggle (https://www.kaggle.com/code/imnoob/topic-modelling-lda-on-trip-advisor-dataset/data?select=tripadvisor_hotel_reviews.csv) ke google drive anda. Buat codingan untuk topik modelling dengan jumlah topic (n topic) bebas. Plot kata2 utama yang muncul untuk setiap topik. Anda boleh menggunakan referensi codingan di link kaggle ini atau dari perkuliahan sebelumnya
 
 Bagian Ketiga
