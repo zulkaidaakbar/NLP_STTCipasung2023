@@ -1,4 +1,5 @@
 Soal UTS
+
 Bagian Pertama
 1. Baca: https://theconversation.com/analisis-pidato-kenegaraan-jokowi-ungkap-keterbatasan-pemerintah-dalam-hadapi-pandemi-145340 dan https://katadata.co.id/ariayudhistira/analisisdata/625539ee12819/analisis-pidato-kenegaraan-jokowi-beda-perhatian-dulu-dan-sekarang 
 2. Cari 1 pidato dari tokoh publik Indonesia (boleh pejabat, politisi, artis dan sebagainya)
