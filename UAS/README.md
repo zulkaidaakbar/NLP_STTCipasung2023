@@ -10,7 +10,7 @@ Selama Perkuliahan ini ada beberapa hal yang telah dipelajari:
 7. Sentimen Analysis
 
 Untuk UAS soalnya adalah semi open problem yaitu:
-1. Problem nya tiga, pilih tiga topik antara nomor 2 - 7 diatas
+1. Problem nya tiga, pilih tiga topik berbeda antara nomor 2 - 7 diatas
 2. Kalian bebas menggunakan dataset apapun selama belum pernah digunakan/dibahas di perkuliahan sebelumnya atau PR
 3. Waktu pengumpulan dua minggu dari sekarang yaitu Kamis, 25 Januari 23.59
 
